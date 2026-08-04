@@ -56,6 +56,7 @@
   <img data-importer="image" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmkxZGw3d2ZrMWY1aWZmeTB4d2lwY2VhZHNmdTZzaTJ4YWR0dWNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
