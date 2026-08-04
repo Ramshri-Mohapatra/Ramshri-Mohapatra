@@ -15,4 +15,10 @@ Here you go, with emojis matching each field:<br><br>🚀 I'm currently working 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Ramshri-Mohapatra/Ramshri-Mohapatra/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
