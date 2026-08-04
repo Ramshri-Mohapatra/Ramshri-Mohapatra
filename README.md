@@ -16,10 +16,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
+
 <br clear="both">
 
-<img data-importer="image" align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN6MXQ4dXpibTM3YXBjdWNiZmY1M3dvdG03bzUwbHV6MTk2d2t6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pKMxUjOomXitGJhXLe/giphy.gif"  />
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmkxZGw3d2ZrMWY1aWZmeTB4d2lwY2VhZHNmdTZzaTJ4YWR0dWNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+</div>
 
 ###
 
