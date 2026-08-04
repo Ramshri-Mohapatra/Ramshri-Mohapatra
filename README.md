@@ -17,7 +17,11 @@ Here you go, with emojis matching each field:<br><br>🚀 I'm currently working 
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Ramshri-Mohapatra/Ramshri-Mohapatra/snake-output/snake.svg" alt="Snake animation" />
+###
+
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
