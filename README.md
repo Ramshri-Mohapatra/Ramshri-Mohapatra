@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 I'm currently working on — a credit risk analysis project using SQL, Excel, and Power BI, alongside a live fintech backend API (FastAPI, PostgreSQL, Docker)<br><br>🤝 I'm looking to collaborate on — data analytics and fintech projects<br><br>💬 I'm looking for help with — Power BI and advanced SQL<br><br>🌱 I'm currently learning — SQL, Power BI, and data analysis for financial services<br><br>💭 Ask me about — backend engineering, FastAPI, Python, or my trading and fintech projects<br><br>⚡ Fun fact — I am a part time musician
+<h1 data-importer="text" align="left">Hey 👋 I'm Ram!</h1>
+🚀 I'm currently working on — a credit risk analysis project using SQL, Excel, and Power BI, alongside a live fintech backend API (FastAPI, PostgreSQL, Docker)<br><br>🤝 I'm looking to collaborate on — data analytics and fintech projects<br><br>💬 I'm looking for help with — Power BI and advanced SQL<br><br>🌱 I'm currently learning — SQL, Power BI, and data analysis for financial services<br><br>💭 Ask me about — backend engineering, FastAPI, Python, or my trading and fintech projects<br><br>✨ Creating bugs since: 2022, when I started my Computer Science degree
 
 
 ## 🌐 Socials:
