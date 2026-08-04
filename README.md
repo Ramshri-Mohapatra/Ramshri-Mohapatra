@@ -13,12 +13,11 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ramshri-Mohapatra&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-###
 <br clear="both">
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmkxZGw3d2ZrMWY1aWZmeTB4d2lwY2VhZHNmdTZzaTJ4YWR0dWNociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
-###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
