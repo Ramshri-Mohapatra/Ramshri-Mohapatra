@@ -21,7 +21,8 @@ Here you go, with emojis matching each field:<br><br>🚀 I'm currently working 
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="200" src="[https://i.imgflip.com/65efzo.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN6MXQ4dXpibTM3YXBjdWNiZmY1M3dvdG03bzUwbHV6MTk2d2t6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pKMxUjOomXitGJhXLe/giphy.gif)"  />
+<img data-importer="image" align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN6MXQ4dXpibTM3YXBjdWNiZmY1M3dvdG03bzUwbHV6MTk2d2t6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pKMxUjOomXitGJhXLe/giphy.gif"  />
+
 
 ###
 
